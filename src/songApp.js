@@ -1,5 +1,6 @@
 import Card1 from './components/Card1'
 import React, { Component } from 'react'
+import Axios from 'axios'
 
 
 let songi = [
@@ -60,13 +61,13 @@ class App extends Component {
 
   }
 
+  componentDidMount() {
+    this.state.songs.map(song => <Card1 song={song} />)
+  }
+
   render() {
     return (
       <>
-        
-
-        
-
         <div className="container" style={{ textAlign: 'center' }}>
           <form>
             <label htmlFor="item">Song Name:</label>
