@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/DaniBoie/React002/static/js/main.26c3932d.chunk.js",
+    "main.js.map": "/DaniBoie/React002/static/js/main.26c3932d.chunk.js.map",
+    "runtime-main.js": "/DaniBoie/React002/static/js/runtime-main.018a8d3c.js",
+    "runtime-main.js.map": "/DaniBoie/React002/static/js/runtime-main.018a8d3c.js.map",
+    "static/js/2.65ea254c.chunk.js": "/DaniBoie/React002/static/js/2.65ea254c.chunk.js",
+    "static/js/2.65ea254c.chunk.js.map": "/DaniBoie/React002/static/js/2.65ea254c.chunk.js.map",
+    "index.html": "/DaniBoie/React002/index.html",
+    "precache-manifest.c6c40e89449f74ba89ef87d856a899f1.js": "/DaniBoie/React002/precache-manifest.c6c40e89449f74ba89ef87d856a899f1.js",
+    "service-worker.js": "/DaniBoie/React002/service-worker.js",
+    "static/js/2.65ea254c.chunk.js.LICENSE.txt": "/DaniBoie/React002/static/js/2.65ea254c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.018a8d3c.js",
+    "static/js/2.65ea254c.chunk.js",
+    "static/js/main.26c3932d.chunk.js"
+  ]
+}
